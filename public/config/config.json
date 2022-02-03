@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x61Ae5D3d51129CEBEfAACc3aA08AEC64842E1F86",
+  "SCAN_LINK": "https://polygonscan.com/address/0x61Ae5D3d51129CEBEfAACc3aA08AEC64842E1F86",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Bored Kid Club",
+  "SYMBOL": "BKC",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 1,
+  "DISPLAY_COST": 30,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/boredkidclub-nlpdckd9yw",
+  "SHOW_BACKGROUND": true
+}
